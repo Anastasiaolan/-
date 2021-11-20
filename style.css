@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@600&display=swap');
+body{
+    background-color: rgb(219, 186, 250);
+}
+.pic{
+    width: 200px;
+    border: 3px solid black;
+
+
+}
+.pic2{
+    border: 3px solid black;
+    font-family:"Exo";
+}
+.pic1{
+    border:3px solid black;
+    float: right;
+}
+.pic4{
+    border: 3px solid black;
+    font-family:"Exo"; 
+}
+.pic3{
+    border: 3px solid black;
+    width: 400px;
+}
+.pic5{
+    width:420px;
+    float: right;
+    border: 3px solid black;
+}
+.pic6{
+    margin: 10px;
+    margin: left 50px;
+    margin-bottom: 100px;
+    border: 3px solid black;
+    font-family:"Exo"; 
+}
